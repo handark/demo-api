@@ -1,0 +1,66 @@
+{
+  "documentos": [
+    {
+      "idDocumento": 1,
+      "empresaGrupo": "Enviared",
+      "radicado": "121-213232323-212",
+      "nitRemitente": "901222345",
+      "nombreRemitente": "Empresas Publicas de Medellín",
+      "fechaDocumento": "2021-01-09",
+      "fechaVencimiento": "2021-02-09",
+      "numeroFactura": "EP-2123342",
+      "valorFactura": 334001230,
+      "tarea": "Aprobar Factura"
+    },
+    {
+      "idDocumento": 2,
+      "empresaGrupo": "Enviared",
+      "radicado": "123-4332432432-212",
+      "nitRemitente": "900111333",
+      "nombreRemitente": "Grupo Bambu SAS",
+      "fechaDocumento": "2020-12-12",
+      "fechaVencimiento": "2021-01-12",
+      "numeroFactura": "123413",
+      "valorFactura": 1700000,
+      "tarea": "Causar Factura"
+    },
+    {
+      "idDocumento": 3,
+      "empresaGrupo": "Enviared",
+      "radicado": "123-4332432432-324",
+      "nitRemitente": "900219343",
+      "nombreRemitente": "Corporación Mesa de Yeguas",
+      "fechaDocumento": "2020-11-25",
+      "fechaVencimiento": "2020-11-27",
+      "numeroFactura": "",
+      "valorFactura": 0,
+      "formulario": "SISTEMA DE SOLICITUD DE SOPORTE",
+      "tarea": "Resolver incidencia"
+    },
+    {
+      "idDocumento": 4,
+      "empresaGrupo": "Balancoop",
+      "radicado": "123-4332432432-324",
+      "nitRemitente": "800111222",
+      "nombreRemitente": "Ficop",
+      "fechaDocumento": "2020-11-25",
+      "fechaVencimiento": "2020-11-27",
+      "numeroFactura": "FE 189823",
+      "valorFactura": 324554,
+      "tarea": "Aprobar Factura"
+    },
+    {
+      "idDocumento": 3,
+      "empresaGrupo": "Enviared",
+      "radicado": "123-4332432432-324",
+      "nitRemitente": "900219343",
+      "nombreRemitente": "Creeps & Wafles",
+      "fechaDocumento": "2020-11-25",
+      "fechaVencimiento": "2020-11-27",
+      "numeroFactura": "",
+      "valorFactura": 0,
+      "formulario": "SOLICITUD DE COTIZACIÓN DE PRODUCTO",
+      "tarea": "Analizar y Realizar Cotización"
+    }
+  ]
+}
